@@ -6,3 +6,5 @@
 
 - Database: Prisma (PostgreSQL)
 
+- Tech: Resend (send mail)
+
